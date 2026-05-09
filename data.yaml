@@ -1,0 +1,10 @@
+path: C:\Universidad\Curso IA\Proyecto\dataset_yolo
+train: train/images
+val: val/images
+
+nc: 4
+names:
+  - Scalpel
+  - Straight_Dissection_Clamp
+  - Straight_Mayo_Scissor
+  - Curved_Mayo_Scissor

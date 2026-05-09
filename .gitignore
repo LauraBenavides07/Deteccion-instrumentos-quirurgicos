@@ -1,3 +1,28 @@
-modelos/modelo_cancer_mama.keras
+# Entorno virtual
+_env/
 
-_env/*
+# Modelo base descargado por YOLO
+yolov8n.pt
+
+# Dataset original sin organizar
+data/
+
+# Dataset organizado (se regenera con el notebook)
+dataset_yolo/
+
+# Resultados del entrenamiento (pesa mucho)
+runs/
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Cache de Jupyter
+.ipynb_checkpoints/
+
+# Cache de YOLO
+*.cache
+
+# Variables de entorno
+.env
