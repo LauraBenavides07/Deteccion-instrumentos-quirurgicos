@@ -112,4 +112,5 @@ Presiona `Q` para salir.
 ## Autor
  
 - Laura Isabel Benavides Pito
+  
 Talento Tech 2026 - MINTIC | Inteligencia Artificial | Nivel Innovador | Popayan, Cauca
